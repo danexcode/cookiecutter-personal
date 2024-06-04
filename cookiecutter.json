@@ -1,0 +1,8 @@
+{
+    "project_title": "curso de cookiecutter",
+    "project_slug": "cookiecutter",
+    "project_description": "something cool",
+    "project_author_name": "danexcode",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.12"
+}
